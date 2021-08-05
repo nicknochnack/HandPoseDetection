@@ -75,6 +75,7 @@ function App() {
             zindex: 9,
             width: 640,
             height: 480,
+            transform: 'scaleX(-1)',
           }}
         />
 
@@ -90,6 +91,7 @@ function App() {
             zindex: 9,
             width: 640,
             height: 480,
+            transform: 'scaleX(-1)',
           }}
         />
       </header>
